@@ -72,10 +72,6 @@ http://localhost:5173
      - Overdue: Light red
      - Due soon (≤3 days): Light grey
 
-4. Browser Support:
-   - Modern browsers (Chrome, Firefox, Safari, Edge)
-   - Requires JavaScript enabled
-
 ## Implementation Details
 
 The application follows a component-based architecture with the following main components:
@@ -88,3 +84,8 @@ The application follows a component-based architecture with the following main c
 Data management is handled through a custom hook that interfaces with localStorage for persistence.
 
 ## Screenshots
+![1](https://github.com/user-attachments/assets/27f50c70-b33b-45b4-9260-9a4f6b457758)
+![2](https://github.com/user-attachments/assets/97e224d1-849b-472b-8521-cd0728973027)
+![3](https://github.com/user-attachments/assets/01e55485-8857-468a-8b66-5b71984a2733)
+
+
